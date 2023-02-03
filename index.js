@@ -14,7 +14,7 @@ app.use(cors());
 app.set("view engine", "ejs");
 
 //Modify your URL here
-var hostURL="https://rdx-ponam.onrender.com";
+var hostURL="https://TrackDown.rdrd10.repl.co";
 //TOGGLE for 1pt Proxy and Shorters
 var use1pt=true;
 
