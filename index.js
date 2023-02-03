@@ -14,7 +14,7 @@ app.use(cors());
 app.set("view engine", "ejs");
 
 //Modify your URL here
-var hostURL="https://rdx-rp.onrender.com";
+var hostURL="https://api.render.com/deploy/srv-cfec58hmbjsqnjluahv0?key=ym9RB1zZtyo";
 //TOGGLE for 1pt Proxy and Shorters
 var use1pt=true;
 
